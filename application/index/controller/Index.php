@@ -13,7 +13,8 @@ class Index
         return 'hello,' . $name;
     }
 
-    public function getName(){
-        return;
+    public function show(){
+        echo  123;
+
     }
 }
