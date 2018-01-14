@@ -15,4 +15,7 @@ class Index
     public function show(){
         echo  123;
     }
+    public function login(){
+        echo "登录成功!";
+    }
 }
