@@ -14,6 +14,6 @@ class Index
     }
 
     public function getName(){
-        
+        return;
     }
 }
