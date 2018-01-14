@@ -12,4 +12,10 @@ class Index
     {
         return 'hello,' . $name;
     }
+
+
+    //会员注册
+    public function register(){
+        echo "注册成功!";
+    }
 }
